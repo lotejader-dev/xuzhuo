@@ -1,2 +1,6 @@
 文件1
+<<<<<<< HEAD
 master分支
+=======
+feature分支
+>>>>>>> feature
